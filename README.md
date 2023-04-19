@@ -1,4 +1,4 @@
-### Github 
+<h1> Github </h1>
 <div align="center">
   <a href="https://github.com/Gabriel-Dupla">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Dupla&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -19,13 +19,16 @@
 
 </div>
   
+  <h1>  Redes Sociais:</h1>
+  
 <div style="display: inline_block" align="center"> 
   
-  <img href="https://www.linkedin.com/in/gabriel-dupla-74181a228/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/gabriel-dupla-74181a228/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  <img href="https://codepen.io/Gabriel-Dupla" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
+    <a href="https://codepen.io/Gabriel-Dupla" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 
-  <img href="https://open.spotify.com/user/31uih3gstk6w3ky5x2uya2fws5pe?si=9e3f14c97c294827" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+    <a  href="https://open.spotify.com/user/31uih3gstk6w3ky5x2uya2fws5pe?si=9e3f14c97c294827" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
 </div>
+  
 <img align="right" alt="Chimarrão emoji" height="150" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f9c9.svg?width=676&height=676">
