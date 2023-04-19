@@ -20,14 +20,4 @@
 
 </div>
   
-<div style="display: inline_block" align="center"> 
-  
-    <a href="https://www.linkedin.com/in/gabriel-dupla-74181a228/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-    <a href="https://codepen.io/Gabriel-Dupla" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-
-    <a href="https://open.spotify.com/user/31uih3gstk6w3ky5x2uya2fws5pe?si=9e3f14c97c294827" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-
-</div>
-  
 <img align="left" alt="Chimarrão emoji" height="150" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f9c9.svg?width=676&height=676">
