@@ -1,18 +1,20 @@
 ### Gihub
 <div align="center">
   <a href="https://github.com/Gabriel-Dupla">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Dupla&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="42%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dupla&layout=compact&langs_count=7&theme=radical"/>
+  <img width="70%" alt="GitHub Streak" src="https://streak-stats.demolab.com/demo/preview.php?user=Gabriel-Dupla&theme=radical&locale=pt_BR" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Dupla&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dupla&layout=compact&langs_count=7&theme=radical"/>
+  
 </div>
   
-<div style="display: inline_block" align="center"><br>
+## Técnologias Desenvolvidas:
 
-  <img align="center" alt="Gab-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="Gab-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Gab-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="git" width="45" height="45"/>
 </div>
- 
 
 <div>
   
